@@ -6,7 +6,7 @@ By highlighting the ball, this code aims to improve the amateur sports viewer's 
 
 | Original  | Highlighted |
 | ------------- | ------------- |
-| <img width="400" alt="Original" src="https://user-images.githubusercontent.com/13444386/213957718-c0309e72-3c40-4ca2-b7a2-29d74224dbfe.png">  | <img width="400" alt="Annotated" src="https://user-images.githubusercontent.com/13444386/213957733-d5eca556-efb0-4df2-b4d0-83171a82a7d3.png">  |
+| <img width="400" alt="Original" src="https://user-images.githubusercontent.com/13444386/213975382-deb5d163-750f-4576-a378-fd947d7e1324.gif">  | <img width="400" alt="Annotated" src="https://user-images.githubusercontent.com/13444386/213975341-a2fca484-8064-4be3-9a34-8fb616d0c1b9.gif">  |
 
 I've included 3 example videos from the [Sports Videos in the Wild (SVW)](http://cvlab.cse.msu.edu/project-svw.html) dataset. The original videos are in the `data/` directory, and the model results are stored in the `output/` directory. You can run the model on your own sports videos, see the next section
 
